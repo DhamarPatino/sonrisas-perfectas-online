@@ -107,7 +107,7 @@
 }
 
 .dental-hero-gradient {
-  background: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(var(--dental-light-blue)) 100%);
+  background: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(var(--primary)) 60%, rgba(255,255,255,0.1) 100%);
 }
 
 /* Smooth animations */
